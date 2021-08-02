@@ -30,7 +30,7 @@
 //wifi setting 
 const char *SSID     = "Nirvana#Stay Home@ClassicTech"; 
 const char *PASSWORD = "N0wifiherePle@$e" ; 
-
+   
 char* const host = "www.google.com";
 int hostPort = 80;
 
